@@ -1,0 +1,6 @@
+# to ignore these as it may contain sensitive information
+.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfstate
+.terraform
+.DS_Storeg
